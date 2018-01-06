@@ -1,0 +1,65 @@
+GPRS Tutoial (K. K. Panigrahi)
+- Highlight Loc. 664-67  | Added on Monday, January 04, 2016, 05:18 PM
+
+A variable declaration provides assurance to the compiler that there is one variable existing with the given type and name 
+==========
+Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement (Eric Redmond and Jim R. Wilson)
+- Highlight Loc. 4219  | Added on Tuesday, January 05, 2016, 05:23 PM
+
+> db.towns.find()
+==========
+X86 Assembly Language and C Fundamentals - Joseph Cavanagh (Joseph Cavanagh)
+- Note on Page 6 | Added on Wednesday, January 06, 2016, 12:59 PM
+
+Each 4-bit binary segmentdont get it
+==========
+Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers) (Bruce A. Tate)
+- Note Loc. 4136  | Added on Friday, January 22, 2016, 07:36 AM
+
+finish here
+==========
+Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms (Jeff Heaton)
+- Highlight Loc. 776-78  | Added on Saturday, June 11, 2016, 07:06 PM
+
+The above equation shows us the Euclidean distance d between two arrays p and q. The above equation also states that d(p,q) is the same as d(q,p). This simply means that the distance is the same no matter which end you start at. Calculation of the Euclidean distance is no more than summing the squares of the difference of each array element.
+==========
+How Linux Works: What Every Superuser Should Know (Brian Ward)
+- Highlight on Page 70 | Loc. 2282-84  | Added on Friday, June 24, 2016, 03:29 PM
+
+to force the kernel to reload the partition table on /dev/sdf, run this: # blockdev --rereadpt /dev/sdf 
+==========
+A Tour of C++ (C++ In-Depth Series) (Bjarne Stroustrup)
+- Highlight Loc. 1584  | Added on Thursday, July 28, 2016, 03:26 PM
+
+Exceptions report errors found at run time. 
+==========
+Instant Nginx Starter
+- Highlight Loc. 307-8  | Added on Wednesday, September 21, 2016, 05:46 AM
+
+The second subcontext is the interesting one called http.
+==========
+Is God a Mathematician? (Mario Livio)
+- Highlight on Page 31 | Loc. 525-26  | Added on Saturday, December 17, 2016, 12:43 PM
+
+In one of his famous dialogues, Gorgias, Plato writes: “Geometric equality is of great importance among gods and men.” 
+==========
+Think Like a Programmer: An Introduction to Creative Problem Solving (V. Anton Spraul)
+- Highlight on Page 62 | Loc. 1478-79  | Added on Monday, December 19, 2016, 06:49 PM
+
+In statistics, the mode of a set of values is the value that appears most often.
+==========
+The Nature of Code (Daniel Shiffman)
+- Highlight on Page 27 | Loc. 934-35  | Added on Monday, December 19, 2016, 07:36 PM
+
+Euclidean vector, defined as an entity that has both magnitude and direction.
+==========
+Microservices in Production (Susan J. Fowler)
+- Highlight Loc. 82-83  | Added on Thursday, March 30, 2017, 05:12 PM
+
+The driving force behind each of these principles is that, together, they contribute to and drive the availability of a microservice. 
+==========
+MongoDB Applied Design Patterns (Rick Copeland)
+- Highlight Loc. 402-3  | Added on Monday, April 24, 2017, 05:35 AM
+
+Two of the biggest problems in distributed database design are distributed join operations and distributed transactions. 
+==========
